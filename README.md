@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp API](https://i.supa.codes/6EWphC)
+![WhatsApp API](https://files.catbox.moe/4gr18l.jpeg")
 
 <p align="center">
   <!-- Node.js version -->
