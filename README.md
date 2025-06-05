@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp API]("https://files.catbox.moe/4gr18l.jpeg")
+![WhatsApp API](https://i.supa.codes/iDzFlm)
 
 <p align="center">
   <!-- Node.js version -->
@@ -66,7 +66,7 @@ Paket ini `membutuhkan` Node.js versi **20 atau lebih tinggi** untuk berjalan.
 
 Proyek ini secara eksplisit ditujukan untuk lingkungan modern dan tidak mendukung Node versi lama. Dukungan akan selalu mengikuti versi LTS terbaru dari Node.js untuk menjaga performa dan kompatibilitas dengan ekosistem terbaru.
 
-![metadata](https://i.supa.codes/kKcA8Q)
+![metadata](https://i.supa.codes/iDzFlm)
 
 > **Copyright © XPanzZyyOfficial**
 
